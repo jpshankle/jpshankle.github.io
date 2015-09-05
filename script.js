@@ -1,2 +1,5 @@
-let h1 = document.querySelector('h1');
-console.log(h1);
+(function() {
+  'use strict';
+  let h1 = document.querySelector('h1');
+  console.log(h1);
+}());
