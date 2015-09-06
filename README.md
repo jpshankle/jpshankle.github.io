@@ -1,2 +1,1 @@
-# jpshankle.github.io
-Github Site
+[Github Site](http://jpshankle.github.io)
